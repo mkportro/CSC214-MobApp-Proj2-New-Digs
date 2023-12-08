@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  NewDigs
+
+  Created by MaKayla Ortega Robinson on 7/30/23.
+  
+*/
+
+"sqft" = "pies2";
+"Listing" = "Listado";
+"Title" = "Título";
+"Rent" = "Alquilar";
+"sq ft" = "Pies Cuadrados";
+"Address" = "Dirección";
+"Phone" = "Teléfono";
+"Notes" = "Notas";
+"Images" = "Imágenes";
+"addImg" = "Añadir Imagen";
+"Save" = "Ahorrar";
+"Map" = "Mapa";
+"Snapshot" = "Instantánea";
+"delete" = "Eliminar Todos";

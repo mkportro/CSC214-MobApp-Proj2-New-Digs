@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  NewDigs
+
+  Created by MaKayla Ortega Robinson on 7/30/23.
+  
+*/
+
+"sqft" = "Sqft";
+"Listing" = "Listing";
+"Title" = "Title";
+"Rent" = "Rent";
+"sq ft" = "Square Feet";
+"Address" = "Address";
+"Phone" = "Phone";
+"Notes" = "Notes";
+"Images" = "Images";
+"addImg" = "Add Image";
+"Save" = "Save";
+"Map" = "Map";
+"Snapshot" = "Snapshot";
+"delete" = "Delete All";
